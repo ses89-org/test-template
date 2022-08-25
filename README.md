@@ -1,4 +1,4 @@
-# XM Cloud Starter Kit (Next JS) 1
+# XM Cloud Starter Kit (Next JS) 12
 
 ## QUICK START
 
