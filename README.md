@@ -1,5 +1,5 @@
 # XM Cloud Starter Kit (Next JS) 12
-
+12
 ## QUICK START
 
 1. In an ADMIN terminal:
